@@ -1,0 +1,6 @@
+Batata;2;250
+Feijão;1;350
+Queijo;5;1240
+Presunto;3;1030
+Farinha;1;250
+Óleo;2;760
